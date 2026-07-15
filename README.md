@@ -1,13 +1,4 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '6f60bc5b-bfa3-4235-9dac-940b6773ca54'
-  PropagateID: '6f60bc5b-bfa3-4235-9dac-940b6773ca54'
-  ReservedCode1: '00733fe5-4cdc-424a-a41d-e94002525e0e'
-  ReservedCode2: '00733fe5-4cdc-424a-a41d-e94002525e0e'
----
+
 
 # WeChat Auto Reply
 

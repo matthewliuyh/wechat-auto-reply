@@ -3,10 +3,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: 'f6331bad-dcc9-4866-97f3-b3ab8c6d9b88'
-  PropagateID: 'f6331bad-dcc9-4866-97f3-b3ab8c6d9b88'
-  ReservedCode1: '21d67291-69f1-495f-97c2-737f12186a78'
-  ReservedCode2: '21d67291-69f1-495f-97c2-737f12186a78'
+  ProduceID: '6f60bc5b-bfa3-4235-9dac-940b6773ca54'
+  PropagateID: '6f60bc5b-bfa3-4235-9dac-940b6773ca54'
+  ReservedCode1: '00733fe5-4cdc-424a-a41d-e94002525e0e'
+  ReservedCode2: '00733fe5-4cdc-424a-a41d-e94002525e0e'
 ---
 
 # WeChat Auto Reply
@@ -154,3 +154,5 @@ A: 消息指纹基于对方消息文本的 MD5，自己发送的回复不会触�
 ## 许可证
 
 MIT License
+
+> AI生成
